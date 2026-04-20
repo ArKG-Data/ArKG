@@ -1,0 +1,12 @@
+[submodule "docs"]
+	path = docs
+	url = https://github.com/ArKG-Data/ArKG-docs.git
+[submodule "browser"]
+	path = browser
+	url = https://github.com/ArKG-Data/ArKG-Browser.git
+[submodule "data"]
+	path = data
+	url = https://github.com/ArKG-Data/ArKG-Data.git
+[submodule "pipeline"]
+	path = pipeline
+	url = https://github.com/ArKG-Data/ArKG-DataPipeline.git
